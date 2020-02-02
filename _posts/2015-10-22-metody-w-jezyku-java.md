@@ -33,7 +33,7 @@ Metoda to nic innego jak worek grupujący zestaw instrukcji. Kod grupujemy w ten
 
 # Typy danych
 
-Zadnim przejdę do omówienia metod musisz dowiedzieć się czym są typy danych.
+Zanim przejdę do omówienia metod musisz dowiedzieć się czym są typy danych.
 
 Metoda wyżej przyjmuje argument `someNumber`. Argument ten ma swój typ `int`. Typ w języku programowania opisuje rodzaj danych. Na przykład w kodzie powyżej widoczne są dwa typy:
 - `boolean` – typ przechowujący wartości prawda/fałsz. Prawda reprezentowana jest przez wartość `true`. Fałsz to `false`. Typ ten może nam pomóc przechowywać informację o tym czy ktoś jest wysoki, czy jest pełnoletni, czy ma niebieski kolor oczu itp.

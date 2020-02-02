@@ -64,7 +64,7 @@ public interface MicrowaveOven {
     void setPower(int power);
 
     default String getName() {
-        return "MicrovaweOwen";
+        return "MicrowaveOwen";
     }
 }
 ```

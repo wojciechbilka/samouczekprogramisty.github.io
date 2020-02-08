@@ -47,7 +47,7 @@ Słowo kluczowe `public` jest modyfikatorem dostępu, który pozwala na najbardz
 
 [^moduly]: Jak wspomniałem we wstępie pomijam tutaj moduły, które mogą ograniczyć dostęp do elementów poprzedzonych słowem kluczowym `public`.
 
-Poniższy fragment kodu pokazuje kasę `PublicVisitCounter`. Klasa ta implementuje licznik odwiedzin. Założenie jest takie, że każdy użytkownik wywoła metodę `increment`. Dzięki takiej klasie można w łatwy sposób zliczyć liczbę wizyt na stronie:
+Poniższy fragment kodu pokazuje klasę `PublicVisitCounter`. Klasa ta implementuje licznik odwiedzin. Założenie jest takie, że każdy użytkownik wywoła metodę `increment`. Dzięki takiej klasie można w łatwy sposób zliczyć liczbę wizyt na stronie:
 
 ```java
 package pl.samouczekprogramisty.kursjava.accessmodifiers.public_keyword;

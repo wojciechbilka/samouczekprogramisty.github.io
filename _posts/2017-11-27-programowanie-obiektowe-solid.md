@@ -108,7 +108,7 @@ public class PDFFormatter {
 
 ### O jak Otwarty
 
-O pochodzi od _Open/Closed Principle_. W tym miejscu Uncle Bob zwraca uwagę na to aby kod, który tworzymy był "możliwy do rozszerzania i zamknięty na modyfikacje". Sprowadza się do do świadomego użycia kompozycji, [dziedziczenia]({% post_url 2016-01-24-dziedziczenie-w-jezyku-java %}) czy [modyfikatorów dostępu]({% post_url 2017-10-29-modyfikatory-dostepu-w-jezyku-java %}).
+O pochodzi od _Open/Closed Principle_. W tym miejscu Uncle Bob zwraca uwagę na to aby kod, który tworzymy był "możliwy do rozszerzania i zamknięty na modyfikacje". Sprowadza się to do świadomego użycia kompozycji, [dziedziczenia]({% post_url 2016-01-24-dziedziczenie-w-jezyku-java %}) czy [modyfikatorów dostępu]({% post_url 2017-10-29-modyfikatory-dostepu-w-jezyku-java %}).
 
 #### Przykład
 

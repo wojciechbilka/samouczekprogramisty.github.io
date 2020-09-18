@@ -242,7 +242,7 @@ Metoda `doSomethingWithElements` zrobi dokładnie to samo bez wiedzy o tym z jak
 
 ### I jak Interfejsy
 
-I pochodzi od _Interface Segregation Principle_. Wytyczna ta mówi o tym, abyś rozdzielał interfejs klasy. Interfejs ten powinien być odpowiednio zdefiniowany. Chodzi tu o aby inny fragment kodu, który używa Twojej klasy używał wyłącznie podzbioru metod, który jest w tamtym przypadku istotny. W oryginale wytyczna ta mówi o tym, ze klienty nie powinny być zmuszane do wprowadzania zależności od interfejsów, których nie używają.
+I pochodzi od _Interface Segregation Principle_. Wytyczna ta mówi o tym, abyś rozdzielał interfejs klasy. Interfejs ten powinien być odpowiednio zdefiniowany. Chodzi tu o to aby inny fragment kodu, który używa Twojej klasy używał wyłącznie podzbioru metod, który jest w tamtym przypadku istotny. W oryginale wytyczna ta mówi o tym, że klienty nie powinny być zmuszane do wprowadzania zależności od interfejsów, których nie używają.
 
 Jeśli będziesz stosował się do tej wytycznej to zmiany Twoich klas powinny być łatwiejsze do przeprowadzenia. Dzięki jasno zdefiniowanym interfejsom ryzyko zmiany klas, które używają tych interfejsów będzie mniejsze.
 
